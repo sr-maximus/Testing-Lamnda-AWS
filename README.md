@@ -15,4 +15,4 @@ Script aligned with security practices recommended by AWS.
 ```
 python lambda_security_check.py
 ```
-Este script ahora alineado con las prácticas de seguridad recomendadas por AWS. Asegúrate de revisar y ajustar las funciones **is_minimum_permission** y **sanitize_environment_vars** según los requisitos específicos de seguridad de tu entorno.
+Este script ahora alineado con las prácticas de seguridad recomendadas por AWS. Asegúrate de revisar y ajustar las funciones `is_minimum_permission` y `sanitize_environment_vars` según los requisitos específicos de seguridad de tu entorno.
